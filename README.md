@@ -84,3 +84,4 @@ If everything was set up correctly, all incoming requests to your `someFunction`
 
 https://github.com/hamzazahidulislam/sls-base  https://github.com/hamzazahidulislam/sls-course-frontend  https://github.com/hamzazahidulislam/serverless-auth0-authorizer  https://github.com/hamzazahidulislam/course-auction-service
 https://github.com/hamzazahidulislam/course-notification-service
+https://github.com/hamzazahidulislam/base64-encoder
