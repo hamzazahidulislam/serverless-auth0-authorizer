@@ -83,3 +83,4 @@ functions:
 If everything was set up correctly, all incoming requests to your `someFunction` Lambda will first be authorized. You can find the JWT claims at `event.requestContext.authorizer`.
 
 https://github.com/hamzazahidulislam/sls-base  https://github.com/hamzazahidulislam/sls-course-frontend  https://github.com/hamzazahidulislam/serverless-auth0-authorizer  https://github.com/hamzazahidulislam/course-auction-service
+https://github.com/hamzazahidulislam/course-notification-service
